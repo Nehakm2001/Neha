@@ -38,3 +38,4 @@ package com.infinite.controller;
 			return "list";
 		}
 	}
+	
